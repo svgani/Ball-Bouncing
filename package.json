@@ -1,0 +1,15 @@
+{
+  "name": "bouncing",
+  "version": "1.0.0",
+  "description": "A freely falling ball dropped from height H bouncing after colliding ground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ch S V Gani Prabhakar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
